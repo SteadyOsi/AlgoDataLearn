@@ -18,7 +18,7 @@ class NumArray {
             return this.curNums[right];
         }
 
-        return this.curNums[left] + this.curNums[right];
+        return this.curNums[right] - this.curNums[left - 1];
     }
 }
 
