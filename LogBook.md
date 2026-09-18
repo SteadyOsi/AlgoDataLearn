@@ -1,0 +1,23 @@
+- Arrays
+- Strings
+- Hashing
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Heaps
+- Graphs
+- Sorting
+- Searching
+- Recursion
+- Backtracking
+- Greedy
+- Dynamic Programming
+- Bit Manipulation
+- Math
+- Geometry
+- Advanced
+
+Algos: 
+- sliding window
+- two pointer
