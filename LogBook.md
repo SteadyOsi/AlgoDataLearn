@@ -1,16 +1,16 @@
 Data Structures:
 
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Hash Tables
-- Tree
-- Binary Serach trees
-- Heaps
-- Graphs
-- Trie
-- Union Find
+- Arrays [x]
+- Linked Lists []
+- Stacks []
+- Queues []
+- Hash Tables []
+- Tree []
+- Binary Serach trees []
+- Heaps []
+- Graphs []
+- Trie []
+- Union Find []
 
 Alogroithms:
 
