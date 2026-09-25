@@ -2,9 +2,9 @@ Data Structures:
 
 - Arrays [x]
 - Linked Lists []
-- Stacks []
-- Queues []
-- Hash Tables []
+- Stacks [x]
+- Queues [x]
+- Hash Tables [x]
 - Tree []
 - Binary Serach trees []
 - Heaps []
