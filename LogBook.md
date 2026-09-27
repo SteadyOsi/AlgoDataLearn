@@ -5,7 +5,7 @@ Data Structures:
 - Stacks [x]
 - Queues [x]
 - Hash Tables [x]
-- Tree []
+- Tree [x]
 - Binary Serach trees []
 - Heaps []
 - Graphs []
