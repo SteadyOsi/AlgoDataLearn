@@ -8,7 +8,7 @@ Data Structures:
 - Tree [x]
 - Binary Serach trees [x]
 - Heaps [] // gonna pass on this one for the moment
-- Graphs []
+- Graphs [x]
 - Trie []
 - Union Find []
 
