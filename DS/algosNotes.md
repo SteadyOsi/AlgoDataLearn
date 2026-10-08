@@ -1,4 +1,5 @@
 # Array
+
 ```
 #include <bits/stdc++.h>
 using namespace std;
@@ -31,4 +32,47 @@ int main(){
     return 0;
 }
 
+```
+
+# Hashmap
+
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+    unordered_map<string, int> map;
+
+    map["dog"] = 12;
+
+	cout << map["dog"] << endl;
+
+	return 0;
+};
+```
+
+# Queue
+
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+    queue<int> q;
+
+    q.push(1);
+    q.push(22);
+    q.push(23);
+
+    cout << q.front() << endl;
+    cout << q.back() << endl;
+
+    q.pop();
+
+    cout << q.front() << endl;
+
+    return 0;
+};
 ```
