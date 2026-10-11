@@ -76,3 +76,66 @@ int main(){
     return 0;
 };
 ```
+
+# Stack
+
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+    stack<int> s;
+
+    s.push(22);
+
+    cout << s.top() << endl;
+
+    return 0;
+};
+```
+
+# Tree/bst
+
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+stuct Tree{
+    int data;
+
+    Tree* left;
+    Tree* right;
+};
+
+int main(){
+    Tree* head = new Tree{10, nullptr, nullptr};
+
+    Tree* current = head;
+
+    cout << current->data << endl;
+
+    return 0;
+};
+```
+
+# Graph
+
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+unordered_map<int, vector<int>> graph;
+
+void addEdge(int u, int v){
+    graph[u].push_back(v);
+    graph[v].push_back(u);
+};
+
+int main(){
+
+    cout << graph[0][0] << endl;
+
+    return 0;
+};
+```

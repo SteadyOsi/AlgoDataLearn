@@ -13,6 +13,7 @@ void addEdge(int u, int v){
 
 int main(){
 
+  cout << graph[0][0] << endl;
 
 	return 0;
 };
