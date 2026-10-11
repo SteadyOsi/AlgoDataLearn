@@ -31,8 +31,8 @@ Alogroithms:
 
 Problem-Solving Techniques:
 
-- Two Pointers
-- Sliding Window
+- Two Pointers [x]
+- Sliding Window []
 - Prefix Sum
 - Fast and Slow pointers
 - Divide and Conquer
