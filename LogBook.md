@@ -1,13 +1,13 @@
 Data Structures:
 
 - Arrays [x]
-- Linked Lists []
+- Linked Lists [x]
 - Stacks [x]
 - Queues [x]
 - Hash Tables [x]
 - Tree [x]
 - Binary Serach trees [x]
-- Heaps [] // gonna pass on this one for the moment
+- Heaps []
 - Graphs [x]
 - Trie []
 - Union Find []
