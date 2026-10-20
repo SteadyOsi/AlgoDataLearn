@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// uses two pointer approach to reverse the array
+
 vector<int> reverseArray(vector<int> a) {
     vector<int> rev = a;
     
