@@ -14,6 +14,8 @@ struct Node {
   Node* next;
 };
 
+//Tree 
+
 
 int main() {
 
@@ -41,12 +43,23 @@ int main() {
   cout << cur->next->data << endl;
 
   //Queues
+  queue<int> q; 
+  q.push(12);
+  q.push(33);
+  q.push(2);
+  q.pop();
+  cout << q.front() << endl;
+  cout << q.back() << endl;
 
   //stack
+  stack<int> st;
+  st.push(2);
+  st.push(33);
+  st.pop();
+  cout << st.top();
 
   //tree
-
-
+  // Bro how is a tree any different from BST
   
 
 };
